@@ -25,7 +25,8 @@
 * GitHub（非必须，但如果你将主要从事模型研究强烈建议下载安装并注册账号）
 * COBRA（模型构建和分析的工具箱，侧重模型分析；点击[链接](https://github.com/opencobra/cobratoolbox)有详细的安装说明）
 * RAVEN（模型构建和分析的工具箱，侧重模型构建；点击[链接](https://github.com/SysBioChalmers/RAVEN)有详细的安装说明）
-|warning|安装完毕后，需要运行startme文件以加载COBRA和RAVEN工具包。
+
+**注意** 安装完毕后，需要运行本教程中的startme文件以加载COBRA和RAVEN工具包。
 
 ## 其它
 如果对本教程有任何问题，可以在[Issues](https://github.com/Yu-sysbio/Tutorials-of-metabolic-modeling/issues)提出。
