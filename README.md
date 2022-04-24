@@ -1,7 +1,7 @@
 # Tutorials-of-metabolic-modeling
 
 ## 关于我
-长期从事代谢网络模型构建和分析等工作，在国际期刊发表论文10+篇（见[ResearchGate](https://www.researchgate.net/profile/Yu-Chen-104/publications)），并受邀审稿（见[Publons](https://publons.com/researcher/3561775/yu-chen/peer-review/)）。
+长期从事代谢网络模型相关工作，在国际期刊发表论文10+篇（见[ResearchGate](https://www.researchgate.net/profile/Yu-Chen-104/publications)），并受邀审稿（见[Publons](https://publons.com/researcher/3561775/yu-chen/peer-review/)）。
 
 
 ## 关于你
