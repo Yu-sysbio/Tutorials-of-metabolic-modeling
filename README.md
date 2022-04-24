@@ -5,7 +5,7 @@
 
 
 ## 关于你
-具有微生物学和生物化学的知识储备，对代谢网络模型感兴趣，打算在未来的研究中使用代谢网络模型。建议阅读模型相关的经典文献以掌握一定基础知识，例如模型构建（[_Nat Protoc_ 2010](https://www.nature.com/articles/nprot.2009.203)）、流量平衡分析（[_Nat Biotechnol_ 2010](https://www.nature.com/articles/nbt.1614)）等。
+具有微生物学和生物化学的知识储备，对代谢网络模型感兴趣，打算在未来研究中使用模型。建议提前阅读模型相关的经典文献以掌握一定基础知识，例如模型构建（[_Nat Protoc_ 2010](https://www.nature.com/articles/nprot.2009.203)）、流量平衡分析（[_Nat Biotechnol_ 2010](https://www.nature.com/articles/nbt.1614)）等。
 
 
 ## 关于本教程
