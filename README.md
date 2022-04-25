@@ -1,7 +1,7 @@
 # Tutorials-of-metabolic-modeling
 
 ## 关于我
-长期从事代谢网络模型相关工作，以一作身份在国际期刊PNAS（4篇）、MSB等发文10+篇（见[ResearchGate](https://www.researchgate.net/profile/Yu-Chen-104/publications)），并受邀审稿（见[Publons](https://publons.com/researcher/3561775/yu-chen/peer-review/)）。
+长期从事代谢网络模型相关工作，以一作身份在国际期刊如PNAS（4篇）和MSB等发文10+篇（见[ResearchGate](https://www.researchgate.net/profile/Yu-Chen-104/publications)），并受邀审稿（见[Publons](https://publons.com/researcher/3561775/yu-chen/peer-review/)）。
 
 
 ## 关于你
@@ -12,10 +12,10 @@
 将介绍细胞代谢网络模型的构建和使用的实际操作。
 
 ### 教程内容
-将涉及基础、应用和进阶三部分。
-基础部分包括模型构建，流量平衡分析；
-应用部分主要是利用模型协助微生物细胞工厂的分析和优化；
-进阶部分是新型模型的构建，特别是蛋白约束模型的构建。
+将涉及基础、应用和进阶三部分：
+* 基础部分（Basic modeling）主要是模型构建；
+* 应用部分（Model applications）包括细胞代谢流计算，微生物细胞工厂分析和设计等；
+* 进阶部分（Advanced modeling）涉及新型模型，特别是蛋白约束模型。
 
 如对教程内容有任何建议，请直接与我联系（yuchen.scholar@gmail.com）。 
 
