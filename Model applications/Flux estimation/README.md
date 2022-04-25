@@ -17,4 +17,4 @@
 -----------------
 建议阅读以下参考文献：
 
-基于约束的方法[_Nat Rev Microbiol_ 2012](https://www.nature.com/articles/nrmicro2737)，FBA方法[_Nat Biotechnol_ 2010](https://www.nature.com/articles/nbt.1614)，pFBA方法[_Mol Syst Biol_ 2010](https://www.embopress.org/doi/full/10.1038/msb.2010.47)，FVA方法[_Metab Eng_ 2003](https://www.sciencedirect.com/science/article/pii/S1096717603000582)，Sampling方法[_J Biol Chem_ 2009](https://doi.org/10.1074/jbc.R800048200)
+基于约束的方法[_Nat Rev Microbiol_ 2012](https://www.nature.com/articles/nrmicro2737)，FBA方法[_Nat Biotechnol_ 2010](https://www.nature.com/articles/nbt.1614)，FVA方法[_Metab Eng_ 2003](https://www.sciencedirect.com/science/article/pii/S1096717603000582)，Sampling方法[_J Biol Chem_ 2009](https://doi.org/10.1074/jbc.R800048200)
