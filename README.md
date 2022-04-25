@@ -1,7 +1,7 @@
 # Tutorials-of-metabolic-modeling
 
 ## 关于我
-长期从事代谢网络模型相关工作，在国际期刊发表论文10+篇（见[ResearchGate](https://www.researchgate.net/profile/Yu-Chen-104/publications)），并受邀审稿（见[Publons](https://publons.com/researcher/3561775/yu-chen/peer-review/)）。
+长期从事代谢网络模型相关工作，以一作身份在国际期刊PNAS（4篇）、MSB等发文10+篇（见[ResearchGate](https://www.researchgate.net/profile/Yu-Chen-104/publications)），并受邀审稿（见[Publons](https://publons.com/researcher/3561775/yu-chen/peer-review/)）。
 
 
 ## 关于你
@@ -25,7 +25,10 @@
 * GitHub（非必须，但如果你将主要从事模型研究强烈建议下载安装并注册账号）
 * COBRA（模型构建和分析的工具箱，点击[链接](https://github.com/opencobra/cobratoolbox)有详细的安装说明）
 
-**注意** 安装完毕后，每次使用本教程的时候都需要运行startme文件以加载COBRA工具包。
+**注意** 安装完毕后，每次使用本教程的时候都需要运行startme文件以加载COBRA工具包，或者自行输入initCobraToolbox进行加载。
 
 ## 其它
 如果对本教程有任何问题，可以在[Issues](https://github.com/Yu-sysbio/Tutorials-of-metabolic-modeling/issues)提出。
+
+
+* 最后更新时间：2022-04-26
