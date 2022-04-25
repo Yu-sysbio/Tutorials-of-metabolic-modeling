@@ -28,7 +28,6 @@
 **注意** 安装完毕后，每次使用本教程的时候都需要运行startme文件以加载COBRA工具包，或者自行输入initCobraToolbox进行加载。
 
 ## 其它
-如果对本教程有任何问题，可以在[Issues](https://github.com/Yu-sysbio/Tutorials-of-metabolic-modeling/issues)提出。
+如果在使用过程中有任何问题，可以在[Issues](https://github.com/Yu-sysbio/Tutorials-of-metabolic-modeling/issues)提出。
 
-
-* 最后更新时间：2022-04-25
+* 本教程将长期但不定期更新。最后更新时间：2022-04-25
