@@ -23,7 +23,7 @@
 请自行下载并安装以下软件和工具包：
 * MATLAB（本教程的所有操作都是在MATLAB中实现的）
 * GitHub（非必须，但如果你将主要从事模型研究强烈建议下载安装并注册账号）
-* COBRA（模型构建和分析的工具箱，点击[链接](https://github.com/opencobra/cobratoolbox)有详细的安装说明）
+* [COBRA](https://github.com/opencobra/cobratoolbox)（模型构建和分析的工具箱，点击[链接](https://opencobra.github.io/cobratoolbox/stable/installation.html)有详细的安装说明，Solver最好选择Gurobi）
 
 **注意** 安装完毕后，每次使用本教程的时候都需要运行startme文件以加载COBRA工具包，或者自行输入initCobraToolbox进行加载。
 
