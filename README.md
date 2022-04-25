@@ -31,4 +31,4 @@
 如果对本教程有任何问题，可以在[Issues](https://github.com/Yu-sysbio/Tutorials-of-metabolic-modeling/issues)提出。
 
 
-* 最后更新时间：2022-04-26
+* 最后更新时间：2022-04-25
