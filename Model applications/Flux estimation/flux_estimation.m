@@ -5,6 +5,8 @@
 
 % 注：为简化教程，模型以及模拟方法与原始文献中略有差异，因此结果也有所差别。
 
+% Author: Yu Chen (yuchen.scholar@gmail.com)
+
 %% 读取模型
 load('iBag597.mat'); % 得到的模型文件为model
 % ".mat"文件可直接使用MATLAB自带的function读取。

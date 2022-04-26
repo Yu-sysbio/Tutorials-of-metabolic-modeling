@@ -2,6 +2,8 @@
 % 预计用时：< 1 min
 % 在酿酒酵母模型中添加外源反应使其能够更高效地合成Spermidine，并比较外源途径和原生途径的得率差异。
 
+% Author: Yu Chen (yuchen.scholar@gmail.com)
+
 %% 读取并设置野生型模型
 model_wt = readCbModel('yeast_7.6_COBRA.xml'); % 读取野生型模型并命名为model_wt
 % "yeast_7.6_COBRA.xml"是已经公开的酿酒酵母模型，虽然不是最新版，但不影响作为例子进行实操

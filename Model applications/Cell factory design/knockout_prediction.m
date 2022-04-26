@@ -7,6 +7,8 @@
 
 % 更多案例见COBRA教程(https://opencobra.github.io/cobratoolbox/stable/tutorials/tutorialOptKnock.html)
 
+% Author: Yu Chen (yuchen.scholar@gmail.com)
+
 %% 读取并设置模型
 model = readCbModel('iMM904.xml'); % 读取酵母模型（不是最新版模型）
 
