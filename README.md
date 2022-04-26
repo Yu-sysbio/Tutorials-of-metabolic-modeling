@@ -17,8 +17,6 @@
 * 应用部分（Model applications）包括细胞代谢流计算，微生物细胞工厂分析和设计等；
 * 进阶部分（Advanced modeling）涉及新型模型，特别是蛋白约束模型。
 
-如对教程内容有任何建议，请直接与我联系（yuchen.scholar@gmail.com）。 
-
 ### 需要用的软件和工具
 请自行下载并安装以下软件和工具包：
 * MATLAB（本教程的所有操作都是在MATLAB中实现的）
@@ -29,5 +27,6 @@
 
 ## 其它
 如果在使用过程中有任何问题，可以在[Issues](https://github.com/Yu-sysbio/Tutorials-of-metabolic-modeling/issues)提出。
+如对教程内容有任何建议，请与我联系（yuchen.scholar@gmail.com）。 
 
-* 本教程将长期但不定期更新。最后更新时间：2022-04-25
+* 本教程将长期但不定期更新。最后更新时间：2022-04-26
