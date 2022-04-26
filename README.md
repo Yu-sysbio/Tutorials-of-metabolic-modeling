@@ -13,7 +13,7 @@
 
 ### 教程内容
 将涉及基础、应用和进阶三部分：
-* 基础部分（Basic modeling）主要是模型构建；
+* 基础部分（Basic modeling）主要是模型基本信息介绍以及模型构建；
 * 应用部分（Model applications）包括细胞代谢流计算，微生物细胞工厂分析和设计等；
 * 进阶部分（Advanced modeling）涉及新型模型，特别是蛋白约束模型。
 
