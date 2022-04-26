@@ -27,6 +27,7 @@
 
 ## 其它
 如果在使用过程中有任何问题，可以在[Issues](https://github.com/Yu-sysbio/Tutorials-of-metabolic-modeling/issues)提出。
+
 如对教程内容有任何建议，请与我联系（yuchen.scholar@gmail.com）。 
 
 * 本教程将长期但不定期更新。最后更新时间：2022-04-26
