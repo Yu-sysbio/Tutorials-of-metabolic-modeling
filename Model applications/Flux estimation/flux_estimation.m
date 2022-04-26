@@ -1,4 +1,5 @@
 %% flux estimation
+% 预计用时：大约 1 min
 % 比较凝结芽孢杆菌（Bacillus coagulans）在不同pH条件下的胞内代谢流量差异。
 % 背景介绍：同一株凝结芽孢杆菌分别在pH为6和pH为5.5的条件下进行恒化培养，稀释速率为0.2 /h
 
@@ -39,7 +40,7 @@ sol_ph6 = optimizeCbModel(model_ph6,'max','one');
 sol_ph55 = optimizeCbModel(model_ph55,'max','one');
 % optimizeCbModel用来求解模型，其中"max"代表对模型中的目标函数进行最大化
 % 通常而言传统FBA只能从众多解中可能毫无根据地选择一组解
-% 而使用pFBA可以在所有解中选择总流量最小的一组解，意味着细胞会尽可能减少酶的使用以维持给定的状态，因而更具生物学意义
+% 而使用pFBA可以在所有解中选择总流量最小的一组解，其根据是细胞会尽可能减少酶的使用以达到给定的状态，因而更具生物学意义
 % optimizeCbModel中的"one"即代表在所有解中选择总流量最小的，是非常常用的一种方式
 fba_ph6 = sol_ph6.x;
 fba_ph55 = sol_ph55.x;
@@ -115,5 +116,3 @@ f2 = fill([x2,fliplr(x2)],[y2,zeros(1,length(x2))],clr_6);
 set(f2,'edgealpha',0,'facealpha',0.3);
 title('fructose‐bisphosphate aldolase');
 xlim([0 12]);xlabel('Flux (mmol/gCDW/h)');ylabel('Number of Samples');
-
-
