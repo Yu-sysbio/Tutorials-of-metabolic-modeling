@@ -3,5 +3,5 @@
 下图展示的是对模型文件的介绍
 
 <p align="center">
-  <img  src="introduction.jpg" width = "400">
+  <img  src="introduction.jpg" width = "600">
 </p>
