@@ -2,6 +2,6 @@
 
 下图展示的是对模型文件的介绍
 
-<p align="center">
+<p align="left">
   <img  src="introduction.jpg" width = "600">
 </p>
