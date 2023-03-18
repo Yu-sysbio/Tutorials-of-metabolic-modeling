@@ -49,8 +49,13 @@ fba_ph55 = sol_ph55.x;
 
 %% FVA计算每个反应的最大和最小值
 % FVA能给出在满足当前约束时每个反应的最大值和最小值
+% 以下两种方法都能计算FVA，可选任一进行计算
+% 1. fastFVA
 [minFlux_ph6, maxFlux_ph6, ~] = fastFVA(model_ph6);
 [minFlux_ph55, maxFlux_ph55, ~] = fastFVA(model_ph55);
+% 2. fluxVariability
+% [minFlux_ph6, maxFlux_ph6, ~] = fluxVariability(model_ph6);
+% [minFlux_ph55, maxFlux_ph55, ~] = fluxVariability(model_ph55);
 
 %% Sampling获得10000组流量
 % Sampling即是在满足当前约束下，穷举所有可能的流量结果。取样次数越多，越能看出每个反应的速率可能性分布

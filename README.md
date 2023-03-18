@@ -1,7 +1,7 @@
 # Tutorials-of-metabolic-modeling
 
 ## 关于我
-长期从事代谢网络模型相关工作，以一作身份在国际期刊如PNAS（4篇）和MSB等发文10+篇（见[ResearchGate](https://www.researchgate.net/profile/Yu-Chen-104/publications)），并受邀审稿（见[Publons](https://publons.com/researcher/3561775/yu-chen/peer-review/)）。
+长期从事代谢网络模型相关工作，以一作身份在国际期刊如PNAS（4篇）、MSB、NAR等发文10+篇（见[个人主页](https://chenyu.website)），并受邀审稿（见[Web of Science](https://www.webofscience.com/wos/author/record/AAL-3329-2020)）。
 
 
 ## 关于你
@@ -31,4 +31,4 @@
 如对教程内容有任何建议，请与我联系（yuchen.scholar@gmail.com）。 
 
 * 本教程将长期但不定期更新，建议点击右上角Watch可订阅每次更新。
-* 最后更新时间：2022-04-28
+* 最后更新时间：2023-03-18
